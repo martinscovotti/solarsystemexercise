@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:solarSystemExam
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube:solarSystemExam
+ceTaskId=AVZqyYsk8tBhjDx9Agql
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVZqyYsk8tBhjDx9Agql
